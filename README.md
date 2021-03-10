@@ -21,10 +21,8 @@ Aim of this game is to provide entertainment and refresh some old memories
 
 # System Requirements
 * Windows 10 pro
-* Unity 2018(LTS)
 * Visual Studios 17 or above
-* Core i5 processors 7th gen or above.
-* Dedicated GPU (Nvidia or AMD) Recomended.
+* Core i5 processors 7th gen or above recomended
 
 # Getting Started
 Start by downloading the project from given link at the top.
