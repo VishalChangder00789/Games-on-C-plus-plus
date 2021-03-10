@@ -10,7 +10,11 @@ https://drive.google.com/drive/folders/1TB7cKuLolpoMhgsj4XaG0-xRSGTQO7nj?usp=sha
 
 # Screenshot : 
 
-![](Collage.png)
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
 
 # Aim
 Aim of this game is to provide entertainment and refresh some old memories
